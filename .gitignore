@@ -11,4 +11,7 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
-*.xcworkspace
+Content/Imports/Buildings/Museo/Textures/SueloMadera/WoodFloor26_rgh.uasset
+Content/Imports/Buildings/Museo/Textures/SueloMadera/WoodFloor26_nrm.uasset
+Content/Imports/Buildings/Museo/Textures/SueloMadera/WoodFloor26_col.uasset
+Content/Imports/Buildings/Museo/Textures/SueloMadera/WoodFloor26_AO.uasset
